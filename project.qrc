@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>shaders/underwater.frag</file>
+    <file>shaders/fishTexture.frag</file>
+    <file>textures/noise0.png</file>
+    <file>textures/noise1.jpg</file>
+    <file>textures/rock.jpg</file>
+    </qresource>
+</RCC>
